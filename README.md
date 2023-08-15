@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GradMaven
-- 👀 I’m interested in software dev, css, html and JS
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on HTML, CSS AND JS projects
-- 📫 How to reach me email: gradmaven@gmail.com
+- 👀 I’m interested in software dev, CSS, HTML, JS, and React
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on HTML, CSS JS, AND REACT projects
+- 📫 How to reach me an email: gradmaven@gmail.com
 
 <!---
 GradMaven/GradMaven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
